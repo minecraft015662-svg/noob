@@ -1,0 +1,16 @@
+# One Blueprint extension id per line. Add/remove freely (library shows all of them).
+activitylogs
+adminauditlogs
+autobackups
+blueannoucements
+configeditor
+consolelogs
+customcss
+customserversort
+databaseimportexport
+eggchanger
+huxregister
+laravellogs
+loader
+lyrdyannounce
+mclogs
